@@ -1,0 +1,28 @@
+{
+  "name": "Mercado Manu",
+  "short_name": "MercadoManu",
+  "description": "Gestor de compras con multimoneda para Venezuela",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#0f0f1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3737/3737372.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3737/3737372.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3737/3737372.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
